@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>JLPT N3 練習</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1 id="title" class="title">JLPT N3 練習</h1>
+    <div class="header-right">
+      <select id="langSel" class="lang-sel" aria-label="言語 / Bahasa">
+        <option value="ja">日本語</option>
+        <option value="id">Bahasa Indonesia</option>
+        <option value="both">日本語 + Indonesia</option>
+      </select>
+      <button id="homeBtn" class="home-btn" hidden>≡ ホーム</button>
+    </div>
+  </header>
+
+  <main id="app" class="app"></main>
+
+  <footer class="app-footer">
+    <span>JLPT N3 学習アプリ ・ 出典: Tôi Yêu Ngoại Ngữ Group / Yuuki Bùi</span>
+  </footer>
+
+  <script src="data/bundle.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
