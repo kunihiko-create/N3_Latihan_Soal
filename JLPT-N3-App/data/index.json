@@ -1,0 +1,12 @@
+{
+  "past": [
+    { "exam": "2023-07", "label": "2023年7月", "file": "data/past/2023-07.json" },
+    { "exam": "2022-12", "label": "2022年12月", "file": "data/past/2022-12.json" },
+    { "exam": "2022-07", "label": "2022年7月", "file": "data/past/2022-07.json" },
+    { "exam": "2021-12", "label": "2021年12月", "file": "data/past/2021-12.json" },
+    { "exam": "2021-07", "label": "2021年7月", "file": "data/past/2021-07.json" }
+  ],
+  "similar": [
+    { "exam": "2023-07", "label": "2023年7月ベース", "file": "data/similar/2023-07.json" }
+  ]
+}
