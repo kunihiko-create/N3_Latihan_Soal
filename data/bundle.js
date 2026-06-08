@@ -62,7 +62,9 @@ window.JLPT_DATA = {
                     "ふくしゅう",
                     "れいしゅう"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「復習」は「ふくしゅう」と読む。「復」＝ふく、「習」＝しゅう。学んだことをもう一度勉強すること。",
+                  "explanation_id": "「復習（ふくしゅう）」berarti mengulang pelajaran. 復=ふく, 習=しゅう."
                 },
                 {
                   "no": 2,
@@ -74,7 +76,9 @@ window.JLPT_DATA = {
                     "こがた",
                     "しょうかた"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「小型」は「こがた」。「小」＝こ、「型」＝かた→がた。サイズが小さいこと。",
+                  "explanation_id": "「小型（こがた）」berarti berukuran kecil. 小=こ, 型=がた."
                 },
                 {
                   "no": 3,
@@ -86,7 +90,9 @@ window.JLPT_DATA = {
                     "しかって",
                     "うたがって"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「疑う」は「うたがう」、て形は「うたがって」。本当かどうか信じられない気持ち。",
+                  "explanation_id": "「疑う（うたがう）」berarti meragukan. Bentuk -te: うたがって."
                 },
                 {
                   "no": 4,
@@ -98,7 +104,9 @@ window.JLPT_DATA = {
                     "せまく",
                     "ほそく"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「細い」は「ほそい」、「細く」＝ほそく。幅がせまいこと。「狭い（せまい）」と混同しないように。",
+                  "explanation_id": "「細い（ほそい）」berarti tipis/kecil (lebarnya). Bentuk: ほそく. Jangan tertukar dengan 狭い (せまい)."
                 },
                 {
                   "no": 5,
@@ -110,7 +118,9 @@ window.JLPT_DATA = {
                     "だいいん",
                     "だんいん"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「退院」は「たいいん」。「退」＝たい、「院」＝いん。病院を出ること。反対は「入院（にゅういん）」。",
+                  "explanation_id": "「退院（たいいん）」berarti keluar dari rumah sakit. Lawan kata: 入院（にゅういん）."
                 },
                 {
                   "no": 6,
@@ -122,7 +132,9 @@ window.JLPT_DATA = {
                     "ふふう",
                     "ふふ"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「夫婦」は「ふうふ」。「夫」＝ふう、「婦」＝ふ。結婚した男女のこと。",
+                  "explanation_id": "「夫婦（ふうふ）」berarti pasangan suami istri."
                 },
                 {
                   "no": 7,
@@ -134,7 +146,9 @@ window.JLPT_DATA = {
                     "りゅうす",
                     "りゅうしゅ"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「留守」は「るす」。特別な読み方。家に誰もいないこと。",
+                  "explanation_id": "「留守（るす）」berarti tidak ada di rumah (sedang pergi). Cara baca khusus."
                 },
                 {
                   "no": 8,
@@ -146,7 +160,9 @@ window.JLPT_DATA = {
                     "こうが",
                     "ごうが"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「高価」は「こうか」。「高」＝こう、「価」＝か。値段が高いこと。",
+                  "explanation_id": "「高価（こうか）」berarti mahal (harga tinggi)."
                 }
               ]
             },
@@ -166,7 +182,9 @@ window.JLPT_DATA = {
                     "短気",
                     "断気"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「たんき」は「短気」。すぐに怒る性格のこと。「短」＝みじかい。",
+                  "explanation_id": "「たんき」ditulis 短気, berarti pemarah / tidak sabar."
                 },
                 {
                   "no": 10,
@@ -178,7 +196,9 @@ window.JLPT_DATA = {
                     "信配",
                     "信酔"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「しんぱい」は「心配」。「心」＋「配」。気にかけて不安に思うこと。",
+                  "explanation_id": "「しんぱい」ditulis 心配, berarti khawatir."
                 },
                 {
                   "no": 11,
@@ -190,7 +210,9 @@ window.JLPT_DATA = {
                     "煙いて",
                     "炊いて"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「やく」は「焼く」、て形は「焼いて」。火で熱を加えること。",
+                  "explanation_id": "「やく」ditulis 焼く, berarti memanggang/membakar. Bentuk -te: 焼いて."
                 },
                 {
                   "no": 12,
@@ -202,7 +224,9 @@ window.JLPT_DATA = {
                     "必ず",
                     "直ず"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「かならず」は「必ず」。きっと、絶対に、という意味。",
+                  "explanation_id": "「かならず」ditulis 必ず, berarti pasti / tentu."
                 },
                 {
                   "no": 13,
@@ -214,7 +238,9 @@ window.JLPT_DATA = {
                     "清服",
                     "制服"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「せいふく」は「制服」。「制」＋「服」。学校や会社で決められた服。",
+                  "explanation_id": "「せいふく」ditulis 制服, berarti seragam."
                 },
                 {
                   "no": 14,
@@ -226,7 +252,9 @@ window.JLPT_DATA = {
                     "楽局",
                     "楽曲"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「やっきょく」は「薬局」。「薬（くすり）」を売る店。",
+                  "explanation_id": "「やっきょく」ditulis 薬局, berarti apotek."
                 }
               ]
             },
@@ -245,7 +273,9 @@ window.JLPT_DATA = {
                     "正常",
                     "十分"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「平気」＝大丈夫・問題ない。家が近いから傘がなくても平気。",
+                  "explanation_id": "「平気（へいき）」berarti tidak apa-apa. Karena rumah dekat, tanpa payung pun tidak masalah."
                 },
                 {
                   "no": 16,
@@ -256,7 +286,9 @@ window.JLPT_DATA = {
                     "くわしい",
                     "にくらしい"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「めんどうくさい」＝するのが大変で気が進まない。疲れて夕飯を作るのが面倒だから外食する。",
+                  "explanation_id": "「めんどうくさい」berarti merepotkan / malas melakukan."
                 },
                 {
                   "no": 17,
@@ -267,7 +299,9 @@ window.JLPT_DATA = {
                     "せき",
                     "あくび"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "眠いときに出るのは「あくび」。「くしゃみ」は鼻、「せき」はのどから出る。",
+                  "explanation_id": "「あくび」berarti menguap (keluar saat mengantuk)."
                 },
                 {
                   "no": 18,
@@ -278,7 +312,9 @@ window.JLPT_DATA = {
                     "サイン",
                     "ルール"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "レポートの「題（テーマ）」のこと。何について書くかを表す。",
+                  "explanation_id": "「テーマ」berarti tema / topik tulisan."
                 },
                 {
                   "no": 19,
@@ -289,7 +325,9 @@ window.JLPT_DATA = {
                     "差",
                     "列"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "昼と夜の気温の「差（さ）」＝違いの大きさ。",
+                  "explanation_id": "「差（さ）」berarti selisih / perbedaan."
                 },
                 {
                   "no": 20,
@@ -300,7 +338,9 @@ window.JLPT_DATA = {
                     "ぴったり",
                     "うっかり"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「うっかり」＝注意が足りずに失敗するようす。鍵をかけ忘れた。",
+                  "explanation_id": "「うっかり」berarti karena lengah / tidak sadar."
                 },
                 {
                   "no": 21,
@@ -311,7 +351,9 @@ window.JLPT_DATA = {
                     "可能",
                     "平等"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "空席があるから予約が「可能（できる）」。",
+                  "explanation_id": "「可能（かのう）」berarti mungkin / bisa dilakukan."
                 },
                 {
                   "no": 22,
@@ -322,7 +364,9 @@ window.JLPT_DATA = {
                     "動作",
                     "運動"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "パソコンの「動作（どうさ）」＝動き。古いから動きが遅い。",
+                  "explanation_id": "「動作（どうさ）」berarti gerakan / kinerja (mesin)."
                 },
                 {
                   "no": 23,
@@ -333,7 +377,9 @@ window.JLPT_DATA = {
                     "日程",
                     "日常"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "申し込みの「期限（きげん）」＝締め切り。今日の12時まで。",
+                  "explanation_id": "「期限（きげん）」berarti batas waktu / tenggat."
                 },
                 {
                   "no": 24,
@@ -344,7 +390,9 @@ window.JLPT_DATA = {
                     "苦しく",
                     "貧しく"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「恋しい」＝離れているものが懐かしく、欲しくなる気持ち。国の料理が恋しい。",
+                  "explanation_id": "「恋しい（こいしい）」berarti rindu / kangen pada sesuatu."
                 },
                 {
                   "no": 25,
@@ -355,7 +403,9 @@ window.JLPT_DATA = {
                     "思いついて",
                     "付き合って"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「付き合う」＝交際すること。3年間付き合ってから結婚した。",
+                  "explanation_id": "「付き合う（つきあう）」berarti berpacaran / menjalin hubungan."
                 }
               ]
             },
@@ -375,7 +425,9 @@ window.JLPT_DATA = {
                     "形",
                     "大きさ"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「サイズ」は「大きさ」と同じ意味。",
+                  "explanation_id": "「サイズ」sama artinya dengan 大きさ (ukuran)."
                 },
                 {
                   "no": 27,
@@ -387,7 +439,9 @@ window.JLPT_DATA = {
                     "覚えて",
                     "教えて"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「暗記する」は「覚える」とほぼ同じ意味。",
+                  "explanation_id": "「暗記する（あんきする）」≒ 覚える (menghafal)."
                 },
                 {
                   "no": 28,
@@ -399,7 +453,9 @@ window.JLPT_DATA = {
                     "とても好きな",
                     "とても上手な"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「得意（とくい）」＝うまくできること＝「とても上手」。",
+                  "explanation_id": "「得意（とくい）」berarti sangat mahir / pandai."
                 },
                 {
                   "no": 29,
@@ -411,7 +467,9 @@ window.JLPT_DATA = {
                     "間違えるところ",
                     "忘れるところ"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「欠点（けってん）」＝悪いところ＝「よくないところ」。",
+                  "explanation_id": "「欠点（けってん）」berarti kekurangan (hal yang tidak baik)."
                 },
                 {
                   "no": 30,
@@ -423,7 +481,9 @@ window.JLPT_DATA = {
                     "たくさん食べないで",
                     "早く歩かないで"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「どなる」＝大きな声で怒ること。",
+                  "explanation_id": "「どなる」berarti membentak (marah dengan suara keras)."
                 }
               ]
             },
@@ -442,7 +502,9 @@ window.JLPT_DATA = {
                     "病気が治って、食欲もだんだん進歩してきた。",
                     "アパートの家賃が進歩して、来年から5,000円高くなるそうだ。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「進歩」＝技術や能力がよくなること。「技術が進歩して」が正しい。",
+                  "explanation_id": "「進歩（しんぽ）」berarti kemajuan (teknologi/kemampuan). Pilihan 2 benar."
                 },
                 {
                   "no": 32,
@@ -453,7 +515,9 @@ window.JLPT_DATA = {
                     "名前を話しかけるので、呼ばれた人は手を挙げてください。",
                     "先輩にお土産をあげて、お礼を話しかけられました。"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「話しかける」＝自分から相手に話を始めること。「観光客に話しかけられた」が正しい。",
+                  "explanation_id": "「話しかける」berarti mengajak bicara duluan. Pilihan 1 benar."
                 },
                 {
                   "no": 33,
@@ -464,7 +528,9 @@ window.JLPT_DATA = {
                     "息子の学校は、海外の人たちと交流する機会が多いようだ。",
                     "この引き出しには、兄の物と私の物が交流している。"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「交流」＝人と人が付き合うこと。「海外の人たちと交流する」が正しい。",
+                  "explanation_id": "「交流（こうりゅう）」berarti interaksi antar orang. Pilihan 3 benar."
                 },
                 {
                   "no": 34,
@@ -475,7 +541,9 @@ window.JLPT_DATA = {
                     "最近仕事が忙しくて、ストレスが渋滞している。",
                     "この商品はあまり売れないので、倉庫の中で渋滞している。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「渋滞」＝道が混んで車が進まないこと。「道が渋滞していた」が正しい。",
+                  "explanation_id": "「渋滞（じゅうたい）」berarti kemacetan. Pilihan 2 benar."
                 },
                 {
                   "no": 35,
@@ -486,7 +554,9 @@ window.JLPT_DATA = {
                     "昨日から具合が悪くて、今朝も頭が少しにこにこしている。",
                     "遊んでいる私たちを見て、祖母はうれしそうににこにこしていた。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「にこにこ」＝うれしそうに笑顔でいるようす。「うれしそうににこにこ」が正しい。",
+                  "explanation_id": "「にこにこ」berarti tersenyum gembira. Pilihan 4 benar."
                 }
               ]
             }
@@ -511,7 +581,9 @@ window.JLPT_DATA = {
                     "の",
                     "を"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「～を中心に」＝～を真ん中にして。「アジアを中心に」いろいろな国で行う。",
+                  "explanation_id": "「～を中心に（ちゅうしんに）」berarti berpusat pada ~."
                 },
                 {
                   "no": 2,
@@ -522,7 +594,9 @@ window.JLPT_DATA = {
                     "にしたがって",
                     "のに比べて"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「～にしたがって」＝～につれて変化する。学年が上がるにしたがって読書時間が減る。",
+                  "explanation_id": "「～にしたがって」berarti seiring dengan ~ (dua hal berubah bersamaan)."
                 },
                 {
                   "no": 3,
@@ -533,7 +607,9 @@ window.JLPT_DATA = {
                     "となら",
                     "としか"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「～としか…ない」＝～以外とは…ない。「家族としか行ったことがない」。",
+                  "explanation_id": "「～としか…ない」berarti hanya dengan ~ (tidak dengan yang lain)."
                 },
                 {
                   "no": 4,
@@ -544,7 +620,9 @@ window.JLPT_DATA = {
                     "せっかく",
                     "確かに"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「できれば」＝可能なら。希望をていねいに言うときに使う。",
+                  "explanation_id": "「できれば」berarti kalau bisa (menyampaikan harapan secara halus)."
                 },
                 {
                   "no": 5,
@@ -555,7 +633,9 @@ window.JLPT_DATA = {
                     "降って",
                     "降った"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「降りだす」＝降り始める。「ます形＋だす」で「～し始める」。",
+                  "explanation_id": "「降りだす」= mulai turun. ます形＋だす = mulai ~."
                 },
                 {
                   "no": 6,
@@ -566,7 +646,9 @@ window.JLPT_DATA = {
                     "呼ばれると",
                     "呼ばれるまで"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "受身「呼ばれる」＋「～まで」。名前が呼ばれるまで待つ。",
+                  "explanation_id": "Pasif 呼ばれる ＋ まで = sampai (nama) dipanggil."
                 },
                 {
                   "no": 7,
@@ -577,7 +659,9 @@ window.JLPT_DATA = {
                     "たびに",
                     "せいで"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「～せいで」＝悪い結果の原因。電車が遅れたせいで遅刻した。",
+                  "explanation_id": "「～せいで」berarti gara-gara ~ (penyebab hasil buruk)."
                 },
                 {
                   "no": 8,
@@ -588,7 +672,9 @@ window.JLPT_DATA = {
                     "読むことにしてはいけない",
                     "読むことにしなければならない"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「～ておく」（準備）＋「なければならない」（義務）。前もって読んでおく必要がある。",
+                  "explanation_id": "「～ておく」(persiapan) ＋ なければならない (keharusan)."
                 },
                 {
                   "no": 9,
@@ -599,7 +685,9 @@ window.JLPT_DATA = {
                     "眠れなかった",
                     "眠らなくなった"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「少しも～ない」＝全然～ない。可能の否定「眠れなかった」。",
+                  "explanation_id": "「少しも～ない」= sama sekali tidak. 眠れなかった = tidak bisa tidur."
                 },
                 {
                   "no": 10,
@@ -610,7 +698,9 @@ window.JLPT_DATA = {
                     "開くことだ",
                     "開きたいことだ"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「私の夢は…開くことだ」。「夢は～ことだ」の形が正しい。",
+                  "explanation_id": "「夢は～ことだ」= impian saya adalah (untuk) ~."
                 },
                 {
                   "no": 11,
@@ -621,7 +711,9 @@ window.JLPT_DATA = {
                     "やむに違いない",
                     "やんでもしかたない"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「～そうにない」＝そうなる様子がない。雨がやみそうにない。",
+                  "explanation_id": "「～そうにない」berarti sepertinya tidak akan ~."
                 },
                 {
                   "no": 12,
@@ -632,7 +724,9 @@ window.JLPT_DATA = {
                     "できることがある",
                     "できたほうがいい"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "「～らしい」＝人から聞いた情報。新しいカフェができるらしい。",
+                  "explanation_id": "「～らしい」berarti katanya / sepertinya (info dari orang lain)."
                 },
                 {
                   "no": 13,
@@ -643,7 +737,9 @@ window.JLPT_DATA = {
                     "してもらえますか",
                     "なってもらえますか"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "「～してもらえますか」＝ていねいな依頼。短くしてもらえますか。",
+                  "explanation_id": "「～してもらえますか」= permintaan sopan (bisakah Anda ~?)."
                 }
               ]
             },
@@ -740,7 +836,9 @@ window.JLPT_DATA = {
                     "すると",
                     "そのうえ"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "前（楽しかった）と反対のこと（辞めた）をつなぐ「でも」。",
+                  "explanation_id": "「でも」= tetapi (menghubungkan dua hal yang berlawanan)."
                 },
                 {
                   "no": 20,
@@ -751,7 +849,9 @@ window.JLPT_DATA = {
                     "書かれていた",
                     "書いてほしかった"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "カードに「（仲間によって）書かれていた」。受身が自然。",
+                  "explanation_id": "「書かれていた」= telah ditulis (bentuk pasif)."
                 },
                 {
                   "no": 21,
@@ -762,7 +862,9 @@ window.JLPT_DATA = {
                     "その大学",
                     "そういうところ"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "「大学に行く前に必ず見る」。具体的に「大学」と言うのが自然。",
+                  "explanation_id": "Pilihan 大学 paling alami: 'sebelum pergi ke kampus'."
                 },
                 {
                   "no": 22,
@@ -773,7 +875,9 @@ window.JLPT_DATA = {
                     "頑張っているみたいです",
                     "頑張ることができそうです"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "カードを見ると元気が出る→だから頑張れる。「頑張ることができるからです」。",
+                  "explanation_id": "Melihat kartu jadi semangat → bisa berusaha. Pilihan 2 benar."
                 }
               ]
             }
@@ -798,7 +902,9 @@ window.JLPT_DATA = {
                     "ホテルから、好きな浴衣と帯が特別料金で借りられる。",
                     "浴衣と帯の料金のほかに、2,000円払えば、ホテルの人に着るのを手伝ってもらえる。"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "本文に「お好きな浴衣と帯を特別料金でお貸しします」とある。バスは浴衣を着なくても誰でも使える。答えは3。",
+                  "explanation_id": "Di teks: 'meminjamkan yukata & obi dengan harga khusus'. Bus bisa dipakai siapa saja. Jawaban: 3."
                 }
               ]
             },
@@ -817,7 +923,9 @@ window.JLPT_DATA = {
                     "子供のころからずっと行きたいと思い続けていたアメリカに留学できたから。",
                     "子供のころからずっとなりたいと思い続けていた先生になれたから。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "小学生のとき「先生になりたい」と書いた作文が出てきて、その夢がかなったから頑張ろうと思った。答えは2。",
+                  "explanation_id": "Karangan masa kecil 'ingin jadi guru' ditemukan, dan mimpi itu jadi nyata. Jawaban: 2."
                 }
               ]
             },
@@ -836,7 +944,9 @@ window.JLPT_DATA = {
                     "当日、12時に学校に行って、招待券を中川先生から受け取る。",
                     "当日、13時に野球場に行って、招待券を中川先生から受け取る。"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "自分で行く人は「26日までに招待券を受け取る」必要がある。集合は不要。答えは1。",
+                  "explanation_id": "Yang pergi sendiri harus 'mengambil tiket undangan sebelum tanggal 26'. Tidak perlu berkumpul. Jawaban: 1."
                 }
               ]
             },
@@ -855,7 +965,9 @@ window.JLPT_DATA = {
                     "鏡に気づくと、すぐに鏡の前に行きたがるものがいる。",
                     "鏡が汚れていたら、きれいにしようとするものがいる。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "鏡の中の自分を「自分だ」とわかる魚がいることがわかった。答えは2。",
+                  "explanation_id": "Diketahui ada ikan yang mengenali dirinya sendiri di cermin. Jawaban: 2."
                 }
               ]
             },
@@ -874,7 +986,9 @@ window.JLPT_DATA = {
                     "若いころから自分の運転技術に不安があったから。",
                     "車の運転をやめたほうがいいと妻に言われたから。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "友人が車をぶつけた話を聞いて、自分も安全に運転を続けられるか不安になったから。答えは2。",
+                  "explanation_id": "Setelah dengar teman menabrak mobil, jadi khawatir apakah dirinya bisa menyetir dengan aman. Jawaban: 2."
                 },
                 {
                   "no": 28,
@@ -885,7 +999,9 @@ window.JLPT_DATA = {
                     "スーパーに行くとき、ついでにしていた運動ができなくなり、運動不足になったこと。",
                     "スーパーで買った物を歩いて持って帰ってくるのが、予想ほど楽ではなかったこと。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "車をやめたら、買った物を持って坂を上って帰るのが思ったより大変だった。答えは4。",
+                  "explanation_id": "Setelah berhenti pakai mobil, membawa belanjaan naik tanjakan ternyata lebih berat dari dugaan. Jawaban: 4."
                 },
                 {
                   "no": 29,
@@ -896,7 +1012,9 @@ window.JLPT_DATA = {
                     "届けてもらった商品に満足したし、今後はこのサービスを利用すれば、引っ越す必要はない。",
                     "届けてもらった商品の中には満足できないものもあったが、このサービスを利用すれば、引っ越す必要はないだろう。"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "配達サービスに満足し、「これで引っ越さなくてもよさそう」と考えている。答えは3。",
+                  "explanation_id": "Puas dengan layanan antar, merasa 'tidak perlu pindah rumah'. Jawaban: 3."
                 }
               ]
             },
@@ -915,7 +1033,9 @@ window.JLPT_DATA = {
                     "子供を連れて行くのも、親だけで出かけるのも難しいから。",
                     "大人だけでなく、子供の料金も払わなければならないから。"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "子供は騒ぐ心配があって連れて行けず、人に預けるのも簡単ではないから。答えは3。",
+                  "explanation_id": "Anak bisa ribut jadi tak bisa diajak, menitipkan pun tidak mudah. Jawaban: 3."
                 },
                 {
                   "no": 31,
@@ -926,7 +1046,9 @@ window.JLPT_DATA = {
                     "子供にも大人にも楽しんで見てもらえるような映画を選ぶ。",
                     "子供が怖がったり驚いたりしないような明るさや音量にする。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "ある映画館では会場を少し明るくし、音も大きすぎないようにしている。答えは4。",
+                  "explanation_id": "Ada bioskop yang membuat ruangan agak terang & suara tidak terlalu keras. Jawaban: 4."
                 },
                 {
                   "no": 32,
@@ -937,7 +1059,9 @@ window.JLPT_DATA = {
                     "日本で、大人だけで音楽会や映画に出かける親が増えてきたこと。",
                     "日本で、音楽や映画を楽しむ子供が増えてきたこと。"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "子供がいる親も音楽や映画を楽しめる環境ができてきたことがテーマ。答えは1。",
+                  "explanation_id": "Tema: terbentuknya lingkungan agar orang tua dengan anak kecil pun bisa menikmati musik/film. Jawaban: 1."
                 }
               ]
             },
@@ -956,7 +1080,9 @@ window.JLPT_DATA = {
                     "お年寄りのための介護施設の経営者から、靴について相談されたから。",
                     "お年寄りの歩き方を調査して、靴の問題点を見つけたから。"
                   ],
-                  "answer": 2
+                  "answer": 2,
+                  "explanation": "介護施設の経営者から「お年寄りがよく転ぶ」と相談されたのがきっかけ。答えは3。",
+                  "explanation_id": "Berawal dari konsultasi pengelola panti bahwa 'lansia sering jatuh'. Jawaban: 3."
                 },
                 {
                   "no": 34,
@@ -967,7 +1093,9 @@ window.JLPT_DATA = {
                     "お年寄りには、靴を履く機会が減る人がいること。",
                     "お年寄りになると、右と左で足の形が変わる人がいること。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "年をとって左右の足の大きさが違ってくる人がいるとわかった。答えは4。",
+                  "explanation_id": "Diketahui ada lansia yang ukuran kaki kiri & kanannya menjadi berbeda. Jawaban: 4."
                 },
                 {
                   "no": 35,
@@ -978,7 +1106,9 @@ window.JLPT_DATA = {
                     "「お年寄りのための靴」だけを作ること。",
                     "片方ずつでも靴を売ること。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "「そんなこと」＝片方ずつでも靴を売ること。先輩はこれに反対した。答えは4。",
+                  "explanation_id": "'Hal seperti itu' = menjual sepatu satuan (sebelah saja). Senior menentangnya. Jawaban: 4."
                 },
                 {
                   "no": 36,
@@ -989,7 +1119,9 @@ window.JLPT_DATA = {
                     "人がしないことを探して、周りの人に反対されても実行すること。",
                     "客のことをよくわかっている社員だけで、いいものを作り続けること。"
                   ],
-                  "answer": 0
+                  "answer": 0,
+                  "explanation": "困っている人のことを一生懸命に考えて、いいものを作って売る会社のこと。答えは1。",
+                  "explanation_id": "Perusahaan yang sungguh memikirkan orang yang kesulitan lalu membuat & menjual produk yang baik. Jawaban: 1."
                 }
               ]
             },
@@ -1008,7 +1140,9 @@ window.JLPT_DATA = {
                     "②と④。",
                     "③。"
                   ],
-                  "answer": 3
+                  "answer": 3,
+                  "explanation": "④は教師など関係者専用で学生は使えない。休暇中の平日13時に学生が利用できるのは③だけ。答えは4（③）。",
+                  "explanation_id": "④ hanya untuk guru/staf, mahasiswa tidak bisa. Pada hari kerja masa libur pukul 13, mahasiswa hanya bisa ke ③. Jawaban: 4 (③)."
                 },
                 {
                   "no": 38,
@@ -1019,7 +1153,9 @@ window.JLPT_DATA = {
                     "予約できる最少の人数は、20人である。",
                     "パーティーは、21時までに終える必要がある。"
                   ],
-                  "answer": 1
+                  "answer": 1,
+                  "explanation": "10月23日は土曜日。②の料理は平日は一人2,000円以上だが、土・日・祝日は2,500円以上必要。答えは2。",
+                  "explanation_id": "23 Oktober adalah Sabtu. Untuk ②, di Sabtu/Minggu/hari libur minimal pesan 2.500 yen per orang. Jawaban: 2."
                 }
               ]
             }
